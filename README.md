@@ -1,2 +1,2 @@
 # react-project
-React 项目集合
+React 电商项目
